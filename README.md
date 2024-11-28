@@ -30,3 +30,9 @@ This project implements an ETL pipeline to audit, clean, and standardize census 
 
 8. **Save Cleaned Data**  
    - Output a CSV file containing the cleaned and corrected locality names, match scores, and unmatched records for review.
+  
+## Output Highlights 
+
+	•	Processed 6K+ locality records with a 96% match rate.
+	•	Resolved naming inconsistencies to improve data quality and reporting.
+	•	Provided a clean dataset ready for use in downstream applications.
